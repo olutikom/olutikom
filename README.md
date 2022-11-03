@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @olutikom
+- 👋 Hi, I’m Michael @olutikom
 - 👀 I’m interested in Data Analytics and Software Development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
